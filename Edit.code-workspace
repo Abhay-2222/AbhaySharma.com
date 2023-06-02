@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "Project_Description_images",
+			"path": "../Project_Description/Project_Description_images"
+		},
+		{
+			"name": "Project_Description_assets",
+			"path": "../Project_Description/Project_Description_assets"
+		},
+		{
+			"name": "html5up-Home",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html5up-Home"
+	}
+}
